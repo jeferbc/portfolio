@@ -44,12 +44,7 @@ const Banner = () => (
                                                 </a>
                                             </li>
                                             <li>
-                                                <a className="btn btn-default primary-btn back-white" href="#experience">
-                                                    view experience
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a className="btn btn-default primary-btn btn-outline-cv" href="/CV_Jefferson_Bernal_Senior_Rails_Developer.pdf" target="_blank" rel="noopener noreferrer">
+                                                <a className="btn btn-default primary-btn back-white" href="/CV_Jefferson_Bernal_Senior_Rails_Developer.pdf" target="_blank" rel="noopener noreferrer">
                                                     download cv
                                                 </a>
                                             </li>

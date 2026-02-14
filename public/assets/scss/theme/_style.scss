@@ -17485,6 +17485,15 @@ footer {
 }
 
 // Portfolio custom styles
+.btn-outline-cv {
+  background: transparent !important;
+  border: 1px solid var(--primary) !important;
+  &:hover {
+    background: var(--primary) !important;
+    color: #fff !important;
+  }
+}
+
 .skill-card {
   padding: 30px 20px;
   min-height: 280px;

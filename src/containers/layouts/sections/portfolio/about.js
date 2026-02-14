@@ -75,6 +75,14 @@ const About = () => (
                                     </a>
                                 </span>
                             </li>
+                            <li>
+                                <span className="about-label">CV:</span>
+                                <span className="about-value">
+                                    <a href="/CV_Jefferson_Bernal_Senior_Rails_Developer.pdf" target="_blank" rel="noopener noreferrer">
+                                        Download PDF
+                                    </a>
+                                </span>
+                            </li>
                         </ul>
                     </div>
                 </Col>

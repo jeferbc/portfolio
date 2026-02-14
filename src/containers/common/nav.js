@@ -4,7 +4,6 @@ const NAV_ITEMS = [
   { href: "#about", title: "About" },
   { href: "#skills", title: "Skills" },
   { href: "#experience", title: "Experience" },
-  { href: "#digital-growth", title: "Beyond Code" },
   { href: "#contact", title: "Contact" },
 ];
 

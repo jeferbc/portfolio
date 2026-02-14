@@ -81,8 +81,8 @@ export default function RootLayout({ children }) {
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
 
-        <link rel="icon" href="/assets/images/logo/favicon.png" type="image/x-icon" />
-        <link rel="shortcut icon" href="/assets/images/logo/favicon.png" type="image/x-icon" />
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href="/favicon.svg" sizes="any" />
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
         <BaseCSS />
       </head>

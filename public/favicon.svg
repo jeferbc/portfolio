@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Gem/diamond favicon -->
+  <!-- Top facet (crown) -->
+  <polygon points="16,2 24,10 8,10" fill="#2a3040"/>
+  <!-- Top-left crown facet -->
+  <polygon points="8,10 16,2 4,10" fill="#1f232c"/>
+  <!-- Top-right crown facet -->
+  <polygon points="24,10 16,2 28,10" fill="#1f232c"/>
+  <!-- Left pavilion facet -->
+  <polygon points="4,10 16,30 8,10" fill="#161a24"/>
+  <!-- Center pavilion facet -->
+  <polygon points="8,10 24,10 16,30" fill="#1f232c"/>
+  <!-- Right pavilion facet -->
+  <polygon points="24,10 28,10 16,30" fill="#161a24"/>
+  <!-- Subtle highlight on top center -->
+  <polygon points="16,2 20,10 12,10" fill="#353d4f" opacity="0.4"/>
+</svg>

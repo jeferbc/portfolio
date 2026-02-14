@@ -7,6 +7,7 @@ import SkillsSection from "../../containers/layouts/sections/portfolio/skills";
 import ExperienceSection from "../../containers/layouts/sections/portfolio/experience";
 import CounterSection from "../../containers/layouts/sections/portfolio/counter";
 import DigitalGrowthSection from "../../containers/layouts/sections/portfolio/digital-growth";
+import WorkingWithMeSection from "../../containers/layouts/sections/portfolio/working-with-me";
 import ContactSection from "../../containers/layouts/sections/portfolio/contact";
 import FooterSection from "../../containers/layouts/sections/portfolio/footer";
 
@@ -27,6 +28,7 @@ const Portfolio = () => {
       <ExperienceSection />
       <CounterSection />
       <DigitalGrowthSection />
+      <WorkingWithMeSection />
       <ContactSection />
       <FooterSection />
     </div>

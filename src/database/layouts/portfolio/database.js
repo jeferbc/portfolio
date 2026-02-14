@@ -155,6 +155,39 @@ module.exports = {
         ]
     },
 
+    WorkingWithMeData: [
+        {
+            icon: 'fa fa-clock-o',
+            title: 'US Eastern Timezone',
+            desc: 'Same hours as New York, Miami, Atlanta. Flexible for West Coast overlap.'
+        },
+        {
+            icon: 'fa fa-dollar',
+            title: 'USD Billing',
+            desc: 'Invoice in USD via Wise or direct bank transfer. W-8BEN on file.'
+        },
+        {
+            icon: 'fa fa-file-text-o',
+            title: 'Contractor Ready',
+            desc: 'Independent contractor or via EOR (Deel / Remote). Fast onboarding.'
+        },
+        {
+            icon: 'fa fa-wifi',
+            title: 'Remote-First Setup',
+            desc: '300 Mbps fiber + mobile backup. 6+ years on distributed US and European teams.'
+        },
+        {
+            icon: 'fa fa-comments-o',
+            title: 'Async & Sync',
+            desc: 'Daily standups, Slack, code reviews, sprint planning. Fluent English (C1/C2).'
+        },
+        {
+            icon: 'fa fa-handshake-o',
+            title: 'Agile Workflow',
+            desc: 'Full Scrum ceremonies, pair programming, GitHub PRs, Linear/Jira.'
+        }
+    ],
+
     PersonalInfo: {
         name: 'Jefferson Bernal Cardona',
         title: 'Senior Ruby on Rails Developer',

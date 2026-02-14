@@ -17668,6 +17668,32 @@ footer {
   }
 }
 
+.working-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  padding: 20px;
+  background: $white;
+  border-radius: 4px;
+  height: 100%;
+  i {
+    font-size: 24px;
+    color: var(--primary);
+    margin-top: 2px;
+    min-width: 28px;
+    text-align: center;
+  }
+  h5 {
+    margin-bottom: 6px;
+    color: var(--primary);
+  }
+  p {
+    font-size: 14px;
+    line-height: 1.6;
+    margin-bottom: 0;
+  }
+}
+
 .contact-form {
   .form-control {
     border: 1px solid rgba(0, 0, 0, 0.1);

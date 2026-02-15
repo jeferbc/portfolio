@@ -19,7 +19,7 @@ const Contact = () => (
                     </Col>
                 </Row>
             </div>
-            <Row className="justify-content-start">
+            <Row className="justify-content-center">
                 <Col lg="8">
                     <div className="contact-info">
                         <Row>

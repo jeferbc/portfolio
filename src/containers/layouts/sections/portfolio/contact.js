@@ -19,12 +19,12 @@ const Contact = () => (
                     </Col>
                 </Row>
             </div>
-            <Row className="justify-content-center">
+            <Row className="justify-content-start">
                 <Col lg="8">
-                    <div className="contact-info text-center">
+                    <div className="contact-info">
                         <Row>
                             <Col sm="6" className="mb-4">
-                                <div className="contact-item justify-content-center">
+                                <div className="contact-item justify-content-start">
                                     <i className="fa fa-envelope" aria-hidden="true"></i>
                                     <div>
                                         <h5>Email</h5>
@@ -33,7 +33,7 @@ const Contact = () => (
                                 </div>
                             </Col>
                             <Col sm="6" className="mb-4">
-                                <div className="contact-item justify-content-center">
+                                <div className="contact-item justify-content-start">
                                     <i className="fa fa-map-marker" aria-hidden="true"></i>
                                     <div>
                                         <h5>Location</h5>
@@ -42,7 +42,7 @@ const Contact = () => (
                                 </div>
                             </Col>
                             <Col sm="6" className="mb-4">
-                                <div className="contact-item justify-content-center">
+                                <div className="contact-item justify-content-start">
                                     <i className="fa fa-clock-o" aria-hidden="true"></i>
                                     <div>
                                         <h5>Timezone</h5>
@@ -51,7 +51,7 @@ const Contact = () => (
                                 </div>
                             </Col>
                             <Col sm="6" className="mb-4">
-                                <div className="contact-item justify-content-center">
+                                <div className="contact-item justify-content-start">
                                     <i className="fa fa-whatsapp" aria-hidden="true"></i>
                                     <div>
                                         <h5>WhatsApp</h5>
